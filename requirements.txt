@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-nomic
+langchain-core
+langgraph
+pprint
+typing-extensions
